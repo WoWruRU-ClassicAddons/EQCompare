@@ -1,0 +1,23 @@
+## Interface: 11200
+## Author: hshh, laytya
+## Title: EQCompare |cff7fff7f -Ace2-|r
+## Notes: Compare equipped inventory items against items in chatframe hyperlink and bags/bank.
+## Notes-ruRU: Аддон для сравнения экипировки.
+## Version: 1.5
+## X-eMail: laytya@gmail.com
+## X-Website: https://github.com/laytya/EQCompare-Vanilla/
+## X-Category: Interface Enhancements
+## Dependencites: !Libs
+## OptionalDeps: Ace2
+## SavedVariables: EQCompareDB
+
+Locale\Localization.lua
+Locale\Localization.ru.lua
+Locale\Localization.cn.lua
+Locale\Localization.kr.lua
+Locale\Localization.de.lua
+Locale\Localization.fr.lua
+Locale\Localization.tw.lua
+
+EQCompare.lua
+EQCompare.xml
